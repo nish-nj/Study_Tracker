@@ -1,0 +1,26 @@
+{
+  "name": "study_tracker",
+  "version": "1.0.0",
+  "description": "Minimalist web app to log daily study hours, track what you study every day with target goals, streaks, and weekly summaries",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/nish-nj/Study_Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nish-nj/Study_Tracker/issues"
+  },
+  "homepage": "https://github.com/nish-nj/Study_Tracker#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.11.0",
+    "globals": "^17.12.0"
+  }
+}
