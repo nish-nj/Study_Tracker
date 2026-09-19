@@ -1,0 +1,20 @@
+===============================================
+       STUDY TRACKER - FUTURE ROADMAP
+===============================================
+
+1. AUDIO & NOTIFICATIONS
+   - Add a Pomodoro Timer (25 min study / 5 min break) with sound alerts.
+   - Browser push notifications to remind study goals daily.
+
+2. DATA & STORAGE
+   - Add Export to CSV / JSON feature to backup study history.
+   - Sync data with Google Calendar or Notion database.
+
+3. UI ENHANCEMENTS
+   - Dark mode toggle switch.
+   - Category color tags (e.g., Yellow for JS, Blue for React, Purple for CSS).
+   - Monthly calendar heat-map view (like GitHub contribution graph).
+
+4. GAMIFICATION
+   - Leveling system based on total hours studied (e.g., Beginner -> Pro -> Master).
+   - Badges for reaching milestones (e.g., "10-Day Streak", "50 Hours Logged").
